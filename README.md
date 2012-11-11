@@ -1,4 +1,4 @@
 dvpoo
 =====
 
-wordpress dvpoo 主图
+wordpress dvpoo 主题
